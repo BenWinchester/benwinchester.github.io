@@ -6,4 +6,4 @@ title: BenWinchester
 
 # BenWinchester
 
-Welcome to my Github site which contains projects that I've been working on!
+Welcome to my Github site which contains projects that I've been working on 😃!
