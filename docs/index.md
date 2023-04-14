@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 permalink: /index.html
 title: BenWinchester
 ---
